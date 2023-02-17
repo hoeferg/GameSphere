@@ -1,4 +1,5 @@
 # Gamesphere
+![1](https://user-images.githubusercontent.com/112588710/199295663-b944c3b0-2972-426f-b0c7-08a216cc4850.png)
   ## https://github.com/Pogga1/Gamesphere
   ## https://github.com/hoeferg
   ## https://github.com/dorntrevor7
@@ -17,7 +18,6 @@
 * [Technologies used](#Technologies Used)
 * [Questions](#questions)
 # Installation
-![1](https://user-images.githubusercontent.com/112588710/199295663-b944c3b0-2972-426f-b0c7-08a216cc4850.png)
 ![2](https://user-images.githubusercontent.com/112588710/199295684-6554539e-5671-4cfa-a7df-13b51b9077c4.png)
 ![Screenshot 2022-11-01 101657](https://user-images.githubusercontent.com/112588710/199295698-d679d4f0-f3d8-4a08-acd0-d2819dcf162c.png)
 
